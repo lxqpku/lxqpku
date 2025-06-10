@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Xiaoqian Liu.
-- 👀 I’m interested in foundation models and foundation agents.
-- 🌱 I'm currently a PH.D. candidate of computer science at the University of Chinese Academy of Sciences, and received master degree at Peking Unveristy.
-- 💞️ I’m looking to collaborate on developing foundation agents that are able to continuously learn and generalize well to various decision-making tasks.
+- 👀 I’m interested in foundation models/agents and reinforcement learning.
+- 🌱 I'm currently a PhD candidate of computer science at the University of Chinese Academy of Sciences, and received master degree at Peking Unveristy.
+- 💞️ I’m looking to collaborate on developing large reasoning models and AI agents for interactive settings.
 - 📫 Reach me through email or github！
 
 <!---
